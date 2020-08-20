@@ -1,0 +1,4 @@
+main: me.periapsis.playercapitator.PlayerCapitator
+name: PlayerCapitator
+version: 1.0
+api-version: 1.16
